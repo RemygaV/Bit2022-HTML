@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(190, 201, 201);
+    }
+
+h3{
+    text-align: center;
+    background-color: beige;
+}
+
+.autoriai {
+    color: darkgreen;
+    }
+.citatos {
+    color: rgb(10, 0, 100);
+    font-size: small;
+    font-style: italic;  
+}
+img {
+    justify-content: right;
+    box-shadow: 2px 2px 7px rgb(109, 109, 156);
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+
