@@ -15,6 +15,14 @@ header {
     /* float:left; */
 }
 
+#fonas {
+width: 80%;
+margin:auto;
+display: block;
+margin-right: auto;
+
+}
+
 a {
     color: white;
     text-decoration: none;
@@ -24,20 +32,12 @@ a {
 .topics-images{
     width: 100px;
     height: 100px;
-    /* justify-content: left; */
     border-radius: 50%;
     margin:auto;
     display: block;
     margin-right: auto;
     /* float:left; nustatoma img pozicija tekste */
   }
- /* .topics-images {
-    width: 100px;
-    height: 100px;
-    justify-content:space-evenly;
-    border-radius: 50%;
-
-}  */
 
 /* a:link {
     color: white;
