@@ -3,8 +3,7 @@ header {
     background-color: black;
     color: white;
     text-align: center;
-    /* vertical-align: middle; */
-}
+ }
 #bottom {
     background-color: black;
     color: white;
@@ -32,8 +31,7 @@ a {
     margin:auto;
     display: block;
     margin-right: auto;
-    /* float:left; nustatoma img pozicija tekste */
-}
+ }
 
 a:hover {
     color: white;
@@ -45,16 +43,9 @@ a:target {
     color:blue;
     background-color: violet;
 }
-
 .titles-of-topics {
     padding: 20px;
     background-color: black;
     color: white;
     text-align: center;
 }
-
-/* .blokai { 
-    width: 33%;
-  padding: 1px;
-    float: left;
-} */
