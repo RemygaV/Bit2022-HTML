@@ -1,0 +1,34 @@
+body {
+background-color: rgb(243, 241, 239);
+}
+
+p {
+text-align:justify;
+font-style: oblique;
+}
+
+img {
+    display: block;
+    margin: 5px 5px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: 100px ;
+}
+
+div {
+margin-left: 27%;
+margin-top: 20%;
+float: left;
+} 
+
+.topics {
+color:coral;
+text-align: center;
+font-weight: bold;
+}
+
+.block {
+    width: 14%;
+    margin: 10px 10px;
+ }
